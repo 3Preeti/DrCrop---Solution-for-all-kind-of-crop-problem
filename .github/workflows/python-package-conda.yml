@@ -32,3 +32,13 @@ jobs:
       run: |
         conda install pytest
         pytest
+
+name: drcrop-env
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - numpy
+  - pandas
+  - scikit-learn
+  # add other dependencies as needed
