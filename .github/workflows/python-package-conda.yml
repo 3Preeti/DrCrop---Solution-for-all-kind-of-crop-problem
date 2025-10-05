@@ -42,3 +42,7 @@ dependencies:
   - pandas
   - scikit-learn
   # add other dependencies as needed
+
+  - pip
+  - pytest
+  - flake8
