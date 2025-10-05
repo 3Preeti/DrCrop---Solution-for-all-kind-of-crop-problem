@@ -253,10 +253,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Documentation**: [Link to docs]
-- **Issues**: [GitHub Issues](https://github.com/your-username/drcrop/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/your-username/drcrop/discussions)
-- **Email**: support@drcrop.ai
+- **Documentation**: [Link to docs](docs/README.md)
+- **Issues**: [GitHub Issues](https://github.com/3Preeti/drcrop/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/3Preeti/drcrop/discussions)
+- **Email**: preetisunar@drcrop.ai
 
 ## 🔄 Changelog
 
@@ -271,3 +271,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 Made with ❤️ for farmers and agriculture worldwide 🌱
+
