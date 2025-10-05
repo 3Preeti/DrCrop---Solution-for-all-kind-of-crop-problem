@@ -1,0 +1,431 @@
+{
+  "Apple___Apple_scab": {
+    "crop_type": "Apple",
+    "disease_name": "Apple Scab",
+    "severity": "moderate",
+    "description": "Apple scab is a fungal disease caused by Venturia inaequalis that affects apple trees. It causes dark, scaly lesions on leaves, fruit, and twigs.",
+    "symptoms": [
+      "Dark, scaly spots on leaves",
+      "Circular lesions on fruit surface",
+      "Premature leaf drop",
+      "Cracked and distorted fruit",
+      "Olive-green to black spots on young leaves"
+    ],
+    "treatment": [
+      "Apply fungicide sprays during wet weather",
+      "Use copper-based fungicides in early season",
+      "Remove infected leaves and fruit debris",
+      "Improve air circulation through pruning",
+      "Apply preventive fungicide treatments"
+    ],
+    "prevention": [
+      "Plant disease-resistant apple varieties",
+      "Ensure proper spacing for air circulation",
+      "Remove fallen leaves and debris",
+      "Avoid overhead watering",
+      "Regular monitoring during humid conditions"
+    ],
+    "organic_treatment": [
+      "Apply neem oil spray",
+      "Use baking soda solution (1 tsp per quart water)",
+      "Compost tea applications",
+      "Beneficial bacteria sprays"
+    ]
+  },
+  "Apple___Black_rot": {
+    "crop_type": "Apple",
+    "disease_name": "Black Rot",
+    "severity": "high",
+    "description": "Black rot is a serious fungal disease caused by Botryosphaeria obtusa that affects apple trees, causing fruit rot and cankers on branches.",
+    "symptoms": [
+      "Circular brown spots on fruit",
+      "Black, mummified fruit",
+      "Cankers on branches and trunk",
+      "Yellowing and wilting of leaves",
+      "Concentric rings in fruit lesions"
+    ],
+    "treatment": [
+      "Remove and destroy infected fruit and branches",
+      "Apply fungicide sprays during growing season",
+      "Prune out cankers during dormant season",
+      "Improve tree nutrition and vigor",
+      "Use systemic fungicides for severe infections"
+    ],
+    "prevention": [
+      "Plant in well-draining soil",
+      "Avoid mechanical injuries to trees",
+      "Regular sanitation of orchard floor",
+      "Proper pruning for air circulation",
+      "Stress reduction through proper irrigation"
+    ],
+    "organic_treatment": [
+      "Copper sulfate applications",
+      "Bordeaux mixture spray",
+      "Remove infected plant material",
+      "Beneficial microorganism applications"
+    ]
+  },
+  "Tomato___Early_blight": {
+    "crop_type": "Tomato",
+    "disease_name": "Early Blight",
+    "severity": "moderate",
+    "description": "Early blight is a common fungal disease caused by Alternaria solani that affects tomato plants, causing leaf spots and fruit rot.",
+    "symptoms": [
+      "Dark brown spots with concentric rings on leaves",
+      "Yellowing of lower leaves",
+      "Stem lesions with dark centers",
+      "Fruit rot near the stem end",
+      "Premature defoliation"
+    ],
+    "treatment": [
+      "Apply fungicide containing chlorothalonil or copper",
+      "Remove affected plant parts immediately",
+      "Improve air circulation around plants",
+      "Avoid overhead watering",
+      "Apply mulch to prevent soil splash"
+    ],
+    "prevention": [
+      "Crop rotation with non-solanaceous plants",
+      "Plant resistant varieties when available",
+      "Proper spacing between plants",
+      "Drip irrigation instead of overhead watering",
+      "Regular field sanitation"
+    ],
+    "organic_treatment": [
+      "Neem oil applications",
+      "Baking soda spray (1 tbsp per gallon)",
+      "Compost tea foliar feeding",
+      "Copper-based organic fungicides"
+    ]
+  },
+  "Tomato___Late_blight": {
+    "crop_type": "Tomato",
+    "disease_name": "Late Blight",
+    "severity": "high",
+    "description": "Late blight is a devastating disease caused by Phytophthora infestans that can destroy entire tomato crops within days under favorable conditions.",
+    "symptoms": [
+      "Water-soaked lesions on leaves",
+      "White fuzzy growth on leaf undersides",
+      "Brown to black lesions on stems",
+      "Dark, firm lesions on fruit",
+      "Rapid plant collapse in humid conditions"
+    ],
+    "treatment": [
+      "Apply preventive fungicides immediately",
+      "Remove and destroy infected plants",
+      "Improve drainage and air circulation",
+      "Use systemic fungicides for protection",
+      "Monitor weather conditions closely"
+    ],
+    "prevention": [
+      "Plant certified disease-free seedlings",
+      "Avoid overhead irrigation",
+      "Ensure proper plant spacing",
+      "Remove volunteer potato plants",
+      "Apply preventive fungicide programs"
+    ],
+    "organic_treatment": [
+      "Copper-based fungicides",
+      "Potassium bicarbonate sprays",
+      "Milk spray solution (1:10 ratio)",
+      "Immediate removal of infected tissue"
+    ]
+  },
+  "Potato___Early_blight": {
+    "crop_type": "Potato",
+    "disease_name": "Early Blight",
+    "severity": "moderate",
+    "description": "Early blight in potatoes is caused by Alternaria solani and affects leaves, stems, and tubers, reducing yield and quality.",
+    "symptoms": [
+      "Circular dark spots with concentric rings on leaves",
+      "Yellowing and death of lower leaves",
+      "Dark lesions on stems",
+      "Sunken, dark lesions on tubers",
+      "Reduced plant vigor and yield"
+    ],
+    "treatment": [
+      "Apply fungicides containing mancozeb or chlorothalonil",
+      "Remove infected plant debris",
+      "Ensure proper nutrition, especially potassium",
+      "Avoid mechanical injury to plants",
+      "Harvest tubers before severe infection"
+    ],
+    "prevention": [
+      "Use certified disease-free seed potatoes",
+      "Implement crop rotation",
+      "Avoid overhead irrigation",
+      "Hill soil properly around plants",
+      "Remove volunteer plants and weeds"
+    ],
+    "organic_treatment": [
+      "Copper-based organic fungicides",
+      "Neem oil applications",
+      "Proper composting of plant debris",
+      "Beneficial microorganism applications"
+    ]
+  },
+  "Potato___Late_blight": {
+    "crop_type": "Potato",
+    "disease_name": "Late Blight",
+    "severity": "high",
+    "description": "Late blight is the most destructive potato disease, caused by Phytophthora infestans, historically responsible for the Irish Potato Famine.",
+    "symptoms": [
+      "Water-soaked lesions on leaves",
+      "White, fuzzy growth on leaf undersides",
+      "Blackened stems and petioles",
+      "Brown, firm rot on tubers",
+      "Foul odor from infected tubers"
+    ],
+    "treatment": [
+      "Apply systemic fungicides immediately",
+      "Destroy infected plants completely",
+      "Avoid harvesting wet tubers",
+      "Cure tubers properly before storage",
+      "Monitor storage conditions carefully"
+    ],
+    "prevention": [
+      "Plant certified disease-free seed",
+      "Implement strict crop rotation",
+      "Monitor weather for disease-favorable conditions",
+      "Use resistant varieties when available",
+      "Eliminate volunteer potatoes and tomatoes"
+    ],
+    "organic_treatment": [
+      "Copper sulfate applications",
+      "Bordeaux mixture spray",
+      "Immediate destruction of infected plants",
+      "Soil solarization between crops"
+    ]
+  },
+  "Corn_(maize)___Northern_Leaf_Blight": {
+    "crop_type": "Corn",
+    "disease_name": "Northern Leaf Blight",
+    "severity": "moderate",
+    "description": "Northern leaf blight is a fungal disease caused by Exserohilum turcicum that affects corn leaves, reducing photosynthesis and yield.",
+    "symptoms": [
+      "Long, elliptical gray-green lesions on leaves",
+      "Lesions with distinct margins",
+      "Dark spores on lesion surface",
+      "Premature senescence of leaves",
+      "Reduced grain fill and yield"
+    ],
+    "treatment": [
+      "Apply foliar fungicides during early infection",
+      "Use strobilurin or triazole fungicides",
+      "Time applications based on disease pressure",
+      "Consider economic thresholds for treatment",
+      "Rotate fungicide modes of action"
+    ],
+    "prevention": [
+      "Plant resistant corn hybrids",
+      "Implement crop rotation with non-hosts",
+      "Bury crop residue through tillage",
+      "Avoid dense plant populations",
+      "Monitor fields regularly during growing season"
+    ],
+    "organic_treatment": [
+      "Copper-based fungicides",
+      "Biological control agents",
+      "Crop rotation with legumes",
+      "Compost application for soil health"
+    ]
+  },
+  "Grape___Black_rot": {
+    "crop_type": "Grape",
+    "disease_name": "Black Rot",
+    "severity": "high",
+    "description": "Black rot is a serious fungal disease of grapes caused by Guignardia bidwellii, affecting leaves, shoots, and fruit clusters.",
+    "symptoms": [
+      "Circular brown spots on leaves with dark borders",
+      "Small black lesions on young shoots",
+      "Brown, circular spots on fruit",
+      "Shriveled, mummified berries",
+      "Reduced fruit quality and yield"
+    ],
+    "treatment": [
+      "Apply preventive fungicide sprays",
+      "Remove mummified berries and infected canes",
+      "Use copper or sulfur-based fungicides",
+      "Improve air circulation through pruning",
+      "Apply treatments during wet weather"
+    ],
+    "prevention": [
+      "Select disease-resistant grape varieties",
+      "Prune for good air circulation",
+      "Remove fallen leaves and fruit debris",
+      "Avoid overhead irrigation",
+      "Monitor humidity levels in vineyard"
+    ],
+    "organic_treatment": [
+      "Sulfur dust applications",
+      "Copper hydroxide sprays",
+      "Bordeaux mixture treatments",
+      "Biological control agents"
+    ]
+  },
+  "Apple___healthy": {
+    "crop_type": "Apple",
+    "disease_name": "Healthy",
+    "severity": "none",
+    "description": "Healthy apple plants show vigorous growth, green foliage, and normal fruit development without any disease symptoms.",
+    "symptoms": [
+      "Bright green, uniform foliage",
+      "Strong, upright growth",
+      "Normal fruit development",
+      "No lesions or discoloration",
+      "Good overall plant vigor"
+    ],
+    "treatment": [
+      "Continue current management practices",
+      "Maintain regular monitoring",
+      "Ensure proper nutrition",
+      "Maintain adequate soil moisture",
+      "Continue preventive care program"
+    ],
+    "prevention": [
+      "Regular inspection for early disease detection",
+      "Maintain proper plant nutrition",
+      "Ensure adequate water management",
+      "Practice good orchard sanitation",
+      "Follow integrated pest management"
+    ],
+    "organic_treatment": [
+      "Continue organic management practices",
+      "Regular compost applications",
+      "Beneficial microorganism supplements",
+      "Natural pest control methods"
+    ]
+  },
+  "Tomato___healthy": {
+    "crop_type": "Tomato",
+    "disease_name": "Healthy",
+    "severity": "none",
+    "description": "Healthy tomato plants display vigorous growth, dark green foliage, and normal fruit production without disease symptoms.",
+    "symptoms": [
+      "Dark green, turgid leaves",
+      "Strong stem growth",
+      "Normal flowering and fruit set",
+      "No wilting or discoloration",
+      "Healthy root development"
+    ],
+    "treatment": [
+      "Maintain current care routine",
+      "Continue regular watering schedule",
+      "Monitor for any changes",
+      "Ensure proper fertilization",
+      "Maintain optimal growing conditions"
+    ],
+    "prevention": [
+      "Regular monitoring for disease symptoms",
+      "Proper spacing for air circulation",
+      "Consistent watering practices",
+      "Balanced fertilization program",
+      "Good garden hygiene practices"
+    ],
+    "organic_treatment": [
+      "Continue organic growing methods",
+      "Compost tea applications",
+      "Companion planting benefits",
+      "Natural soil amendments"
+    ]
+  },
+  "Potato___healthy": {
+    "crop_type": "Potato",
+    "disease_name": "Healthy",
+    "severity": "none",
+    "description": "Healthy potato plants show robust growth, green foliage, and proper tuber development without any disease signs.",
+    "symptoms": [
+      "Vigorous green foliage",
+      "Strong root and tuber development",
+      "Normal plant height and structure",
+      "No leaf spotting or wilting",
+      "Healthy flowering (if applicable)"
+    ],
+    "treatment": [
+      "Continue successful management practices",
+      "Maintain consistent care routine",
+      "Monitor for any changes",
+      "Ensure proper hilling",
+      "Continue regular inspection"
+    ],
+    "prevention": [
+      "Regular field monitoring",
+      "Proper crop rotation",
+      "Adequate nutrition program",
+      "Good water management",
+      "Disease prevention practices"
+    ],
+    "organic_treatment": [
+      "Maintain organic certification practices",
+      "Natural soil enhancement",
+      "Beneficial insect habitat",
+      "Organic matter incorporation"
+    ]
+  },
+  "Corn_(maize)___healthy": {
+    "crop_type": "Corn",
+    "disease_name": "Healthy",
+    "severity": "none",
+    "description": "Healthy corn plants exhibit strong growth, green leaves, and normal ear development without disease symptoms.",
+    "symptoms": [
+      "Tall, sturdy stalks",
+      "Green, turgid leaves",
+      "Normal ear development",
+      "Good root establishment",
+      "Uniform plant growth"
+    ],
+    "treatment": [
+      "Continue current agronomic practices",
+      "Maintain fertilization program",
+      "Monitor growth stages",
+      "Ensure adequate water supply",
+      "Continue pest monitoring"
+    ],
+    "prevention": [
+      "Regular field scouting",
+      "Proper nutrient management",
+      "Weed control practices",
+      "Integrated pest management",
+      "Good field hygiene"
+    ],
+    "organic_treatment": [
+      "Organic fertilization methods",
+      "Natural pest control",
+      "Crop rotation benefits",
+      "Soil health maintenance"
+    ]
+  },
+  "Grape___healthy": {
+    "crop_type": "Grape",
+    "disease_name": "Healthy",
+    "severity": "none",
+    "description": "Healthy grape vines show vigorous growth, green foliage, and normal fruit cluster development.",
+    "symptoms": [
+      "Bright green, full foliage",
+      "Strong vine growth",
+      "Normal cluster development",
+      "No leaf spotting or wilting",
+      "Good overall vine vigor"
+    ],
+    "treatment": [
+      "Continue vineyard management practices",
+      "Maintain pruning schedule",
+      "Monitor for changes",
+      "Ensure proper irrigation",
+      "Continue nutrition program"
+    ],
+    "prevention": [
+      "Regular vineyard inspection",
+      "Proper canopy management",
+      "Good air circulation",
+      "Disease monitoring program",
+      "Integrated vineyard management"
+    ],
+    "organic_treatment": [
+      "Organic vineyard practices",
+      "Natural soil amendments",
+      "Beneficial organism habitat",
+      "Organic pest control methods"
+    ]
+  }
+}
